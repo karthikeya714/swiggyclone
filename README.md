@@ -39,9 +39,4 @@ Included `logo.jpg` as part of the Swiggy logo reference.
 - All images are sourced via public URLs for educational use only.
 - Design inspired by Swiggy's official site for learning purposes.
 
-📧 Author:
-----------
-**Karthikeya Gorre**
-GitHub: [karthikeya714]
-
 Thanks for checking it out!
